@@ -1,2 +1,1 @@
-# tincat
-Tinder for cats
+TinCat Starting Files
